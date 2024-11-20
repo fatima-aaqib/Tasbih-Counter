@@ -11,7 +11,7 @@ function TasbihCounter() {
         <div>
        <div className="flex justify-center py-44 px-44 ">
 
-       <p className=" flex justify-center bg-emerald-100 text-center text-black font-bold text-3xl w-96 h-96 py-10 px-11 items-center rounded-full">
+       <p className=" flex justify-center bg-emerald-100 text-center text-black font-bold sm:w-9 sm:h-9 md:w-64 md:h-64 lg:w-96 lg:h-96   py-10 px-11 items-center rounded-full text-4xl">
   TASBIH COUNTER {tasbihcount} </p>
  
         </div>
